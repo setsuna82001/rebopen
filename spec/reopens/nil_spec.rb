@@ -1,8 +1,6 @@
-require "spec_helper"
-
 describe NilClass do
   #=======================================
-  # NilClass::to_sym
+  # NilClass#to_sym
   #=======================================
   describe '#to_sym' do
     it 'return value check' do

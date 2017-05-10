@@ -1,5 +1,3 @@
-require "spec_helper"
-
 describe Net::HTTPResponse do
   #=======================================
   # Net::HTTPResponse::isXXX?

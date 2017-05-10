@@ -1,5 +1,3 @@
-require "spec_helper"
-
 describe Symbol do
   #=======================================
   # Symbol::>>

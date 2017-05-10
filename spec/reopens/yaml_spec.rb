@@ -1,5 +1,3 @@
-require "spec_helper"
-
 describe YAML do
   #=======================================
   # YAML::load_sym
